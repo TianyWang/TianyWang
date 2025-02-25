@@ -27,10 +27,11 @@ I'm <b>Tiany Wang</b>, a PhD candidate specializing in Earth System Science & Re
 
 <hr style="height:1px;border:none;background: linear-gradient(90deg, transparent, #ccc, transparent);" />
 
-### 🚀 Decoding the Climate Code
 <p align="center" style="margin-top: 15px; max-width: 800px; margin-left: auto; margin-right: auto;">
   <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&color=00B4D8&center=true&vCenter=true&width=450&lines=Climate+Researcher;Code+Alchemist;AI+Explorer" alt="Typing SVG"/></a>
 </p>
+
+### 🚀 Decoding the Climate Code
 <p style="color: #00B4D8; font-family: 'Courier New', monospace; text-align: center; text-shadow: 0 0 5px #34C759;">
   <strong>Scanning Earth’s Pulse...</strong>
 </p>
