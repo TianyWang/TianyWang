@@ -1,5 +1,10 @@
 name: Generate Animation
 
+permissions:
+  contents: write  # 允许写入仓库内容（推送代码）
+  actions: write   # 如果需要操作 Actions 本身
+
+  
 on:
   schedule:
     - cron: "0 */24 * * *"
