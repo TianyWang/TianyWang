@@ -1,4 +1,11 @@
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 <p align="center" style="padding: 10px; max-width: 800px; margin: 0 auto;">
   <h1><img src="https://raw.githubusercontent.com/TianyWang/TianyWang/main/assets/wave_hand.gif" width="30" alt="Waving Hand" style="vertical-align: middle; margin-right: 10px;"/> 
   <span style="font-size: 55px; color: #E94560; vertical-align: middle; font-family: 'Courier New', monospace; font-weight: bold;">
