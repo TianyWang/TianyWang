@@ -59,7 +59,7 @@
   *A sleek tool for detecting the CO<sub>2</sub> plume trackted by NASA’s Orbiting Carbon Observatory-2 ([OCO-2](https://ocov2.jpl.nasa.gov/)) from space.*
 <!-- - **[Project Name 2](https://github.com/yourusername/project2)**  
   *An innovative solution for [topic, e.g., data visualization].* -->
----
+<!-- --- -->
 
 <!-- ### 📬 Connect With Me
 <p align="center" style="background-color: #16213E; padding: 10px; border-radius: 8px; border: 1px solid #533483;">
