@@ -47,7 +47,8 @@ jobs:
           git fetch origin output || git checkout --orphan output
           git reset --hard
           git commit --allow-empty -m "Initial commit"
-          git push origin output
+          git branch -M output  # 确保分支名是 output
+          git push --set-upstream origin output  # 创建并推送分支
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
