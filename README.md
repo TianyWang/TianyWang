@@ -1,9 +1,6 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="500" alt="Cool Banner"/>
-</p>
 
 <p align="center" style="background-color: #1A1A2E; padding: 20px; border-radius: 10px; border: 2px solid #00B4D8;">
-  <img src="https://media.giphy.com/media/ZfK4cscUD4EM0/giphy.gif" width="40" alt="Waving Hand"/> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving Hand"/> 
   <span style="font-size: 28px; color: #E94560;">Hey, I’m [Your Name]</span>
 </p>
 
