@@ -9,7 +9,7 @@ const puppeteer = require('puppeteer');
   
   // 访问 git-skyline 网站
   const username = process.env.GITHUB_USERNAME;
-  await page.goto(`https://git-skyline.huakun.tech/?username=TianyWang&year=2024`, {
+  await page.goto(`https://git-skyline.huakun.tech/?username=${username}&year=2024`, {
     waitUntil: 'networkidle2',
   });
 
