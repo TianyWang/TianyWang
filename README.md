@@ -70,5 +70,5 @@
 ---
 
 <p align="center" style="color: #E94560;">
-  ✨ <em>“Code is my canvas, and I paint with logic.”</em> ✨
+  ✨ <em><strong>“Code is my canvas, and I paint with logic.”</strong></em> ✨
 </p>
