@@ -53,8 +53,11 @@ I'm <b>Tiany Wang</b>, a PhD candidate specializing in Earth System Science & Re
 
 
 ### 🌟 Featured Projects
-- **[OCO-2 plume detector](https://github.com/TianyWang/TianyWang)** (coming soon)
-  *A sleek tool for detecting the CO<sub>2</sub> plume trackted by NASA’s Orbiting Carbon Observatory-2 ([OCO-2](https://ocov2.jpl.nasa.gov/)) from space.*
+<!-- - **[OCO-2 plume detector](https://github.com/TianyWang/TianyWang)** (coming soon)
+  *A sleek tool for detecting the CO<sub>2</sub> plume trackted by NASA’s Orbiting Carbon Observatory-2 ([OCO-2](https://ocov2.jpl.nasa.gov/)) from space.* -->
+| Project name | Description | Artical |
+| -------- | ---- | ---- |
+| **[OCO-2 plume detector](https://github.com/TianyWang/TianyWang)** (coming soon) | *A sleek tool for detecting the CO<sub>2</sub> plume tracked by NASA’s Orbiting Carbon Observatory-2 ([OCO-2](https://ocov2.jpl.nasa.gov/)) from space.* | Coming soon |
 
 
 ### 📬 Connect With Me
