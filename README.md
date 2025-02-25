@@ -4,9 +4,6 @@
   <span style="font-size: 35px; color: #E94560; vertical-align: middle;">Hey, I’m Tiany Wang!</span>
 </p>
 
-<p align="center">
-  <img src="https://github.com/TianyWang/TianyWang/blob/main/assets/avatar.png" width="150" style="border-radius: 50%; border: 3px solid #00B4D8; aspect-ratio: 1/1; object-fit: cover;" alt="Tiany Wang's Avatar"/>
-</p>
 
 <p align="center" style="color: #A5A6F6; margin-top: 10px;">
   <em>A [Your Profession, e.g., Developer/Engineer] crafting the future with code.</em>
@@ -19,11 +16,19 @@
 
 ---
 
-### 🚀 About Me
-- 🔭 Exploring the depths of [Your Field, e.g., AI, Software Development].
-- 🌱 Currently mastering [e.g., Rust, Deep Learning].
-- 💬 Talk to me about [e.g., Python, System Design, Sci-Fi].
-- 📫 Email: [your.email@example.com]
+### 🚀 Decoding the Climate Code
+<p style="color: #00B4D8; font-family: 'Courier New', monospace; text-align: center; text-shadow: 0 0 5px #34C759;">
+  <strong>Scanning Earth’s Pulse...</strong>
+</p>
+
+- 🌍 <span style="color: #34C759;">Unveiling GHG Emissions @ Tsinghua Eco-Lab</span>  
+  *PhD warrior decoding the greenhouse enigma.*
+- ⚡️ <span style="color: #A5A6F6;">Mastering Machine Learning for a Greener Future</span>  
+  *Training neural nets to fight climate chaos.*
+- 💾 <span style="color: #00B4D8;">Hack me up on Python, WRF-GC, or Deep Learning</span>  
+  *From C to algorithms—let’s geek out over code & papers.*
+- 📡 <span style="color: #E94560;">Transmit: enchantedyi@foxmail.com</span>  
+  *Drop a signal for eco-tech collabs.*
 
 ---
 
