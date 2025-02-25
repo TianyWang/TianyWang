@@ -6,7 +6,6 @@
   </span>
 </p>
 
-<h1></h1>
 
 ### Welcome to my page!
 <p>
@@ -27,7 +26,7 @@ I'm <b>Tiany Wang</b>, a PhD candidate specializing in Earth System Science & Re
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-<hr style="height:1px;border:none;color:#ccc;background-color:#ccc;" />
+<h1></h1>
 
 <p align="center" style="margin-top: 15px; max-width: 800px; margin-left: auto; margin-right: auto;">
   <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&color=00B4D8&center=true&vCenter=true&width=450&lines=Climate+Researcher;Code+Alchemist;AI+Explorer" alt="Typing SVG"/></a>
@@ -67,7 +66,7 @@ I'm <b>Tiany Wang</b>, a PhD candidate specializing in Earth System Science & Re
 <a href="https://google.com" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/X-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=orrange" /></a>
 </p>
 
-<hr style="height:1px;border:none;color:#ccc;background-color:#ccc;" />
+<h1></h1>
 
 <p align="center">
    <b>✨“Code is my canvas, and I paint with logic.”✨</b>
