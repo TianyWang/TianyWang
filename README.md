@@ -1,17 +1,21 @@
 
-<p align="center" style="background-color: #1A1A2E; padding: 20px; border-radius: 10px; border: 2px solid #00B4D8;">
-  <img src="https://raw.githubusercontent.com/TianyWang/TianyWang/main/assets/wave_hand.gif" width="30" alt="Waving Hand" style="vertical-align: middle;"/> 
-  <span style="font-size: 45px; color: #E94560; vertical-align: middle;">Hey, <strong>I’m Tiany Wang!</strong></span>
+<p align="center" style="background-color: #1A1A2E; padding: 20px; border-radius: 10px; border: 2px solid #00B4D8; max-width: 800px; margin: 0 auto;">
+  <img src="https://raw.githubusercontent.com/TianyWang/TianyWang/main/assets/wave_hand.gif" width="30" alt="Waving Hand" style="vertical-align: middle; margin-right: 10px;"/> 
+  <span style="font-size: 55px; color: #E94560; vertical-align: middle; font-family: 'Courier New', monospace; font-weight: bold;">
+    Hey, I’m Tiany Wang!
+  </span>
 </p>
 
-<p align="center" style="margin-top: 15px;">
-  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&color=00B4D8¢er=true&vCenter=true&width=450&lines=Climate+Researcher;Code+Alchemist;AI+Explorer" alt="Typing SVG"/></a>
+<p align="center" style="margin-top: 15px; max-width: 800px; margin-left: auto; margin-right: auto;">
+  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&color=00B4D8&center=true&vCenter=true&width=450&lines=Climate+Researcher;Code+Alchemist;AI+Explorer" alt="Typing SVG" style="border: 1px solid #00B4D8; border-radius: 5px; padding: 5px; background-color: #16213E;"/></a>
 </p>
 
-<p align="center" style="color: #A5A6F6; margin-top: 10px; font-family: 'Arial', sans-serif; font-style: italic; text-shadow: 0 0 3px #00B4D8;">
+<p align="center" style="color: #A5A6F6; margin-top: 10px; font-family: 'Arial', sans-serif; font-style: italic; text-shadow: 0 0 3px #00B4D8; max-width: 600px; margin-left: auto; margin-right: auto; padding: 10px; background-color: #1A1A2E; border-radius: 8px; border: 1px solid #34C759;">
   <em>PhD student in Earth System Science & Remote Sensing at Tsinghua University, China. I’m driven to create tools that tackle climate change, shaping tomorrow with code.</em>
 </p>
 
+
+---
 
 ### 🚀 Decoding the Climate Code
 <p style="color: #00B4D8; font-family: 'Courier New', monospace; text-align: center; text-shadow: 0 0 5px #34C759;">
@@ -31,9 +35,9 @@
 
 ### 🛠️ Tech Stack
 <p align="center" style="background-color: #16213E; padding: 10px; border-radius: 8px; border: 1px solid #533483;">
-  <img src="https://github.com/TianyWang/TianyWang/tree/main/assets/python_button.svg" alt="Python"/>
-  <img src="https://github.com/TianyWang/TianyWang/tree/main/assets/docker_button.svg" alt="Docker"/>
-  <img src="https://github.com/TianyWang/TianyWang/tree/main/assets/lunix_button.svg" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
 ---
@@ -45,7 +49,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TianyWang/TianyWang/main/assets/TianyWang-2024-skyline.stl" style="border: 2px solid #00B4D8; border-radius: 10px; box-shadow: 0 0 10px #34C759;" alt="3D Contribution Graph"/>
+  <img src="https://raw.githubusercontent.com/TianyWang/TianyWang/main/assets/TianyWang-2024-git-skyline.png" alt="3D Contribution Graph"/>
 </p>
 
 ---

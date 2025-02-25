@@ -1,0 +1,38 @@
+name: Update 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # 每天 UTC 0:00（北京时间 08:00）运行
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  update-3d-contrib:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # 允许写入仓库
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install Dependencies
+        run: npm install puppeteer
+
+      - name: Generate 3D Contribution Graph
+        run: |
+          node generate-contrib.js
+        env:
+          GITHUB_USERNAME: TianyWang
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and Push Changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add assets/TianyWang-2024-git-skyline.png
+          git commit -m "Update 3D Contribution Graph for TianyWang"
+          git push
