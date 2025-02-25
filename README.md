@@ -1,20 +1,19 @@
 
-<p align="center" style="background-color: #1A1A2E; padding: 20px; border-radius: 10px; border: 2px solid #00B4D8; max-width: 800px; margin: 0 auto;">
+<p align="center" style="padding: 10px; max-width: 800px; margin: 0 auto;">
   <h1><img src="https://raw.githubusercontent.com/TianyWang/TianyWang/main/assets/wave_hand.gif" width="30" alt="Waving Hand" style="vertical-align: middle; margin-right: 10px;"/> 
   <span style="font-size: 55px; color: #E94560; vertical-align: middle; font-family: 'Courier New', monospace; font-weight: bold;">
-    Hey, I’m Tiany Wang!</h1>
+    Hey, nice to meet you!</h1>
   </span>
 </p>
 
+### Welcome to my page!
+<p>
+I'm <b>Tiany Wang</b>, a PhD candidate specializing in Earth System Science & Remote Sensing at <img src="assets/tsinghua_logo.png" width="13"/><b><a href="https://www.tsinghua.edu.cn/"> Tsinghua University</a></b>, <img src="assets/china.png" width="13"/><b> China</b>. My work is fueled by a deep commitment to crafting innovative tools that address climate change, harnessing the power of code to build a more sustainable tomorrow.
+</p>
 
 <p align="center" style="margin-top: 15px; max-width: 800px; margin-left: auto; margin-right: auto;">
-  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&color=00B4D8&center=true&vCenter=true&width=450&lines=Climate+Researcher;Code+Alchemist;AI+Explorer" alt="Typing SVG" style="border: 1px solid #00B4D8; border-radius: 5px; padding: 5px; background-color: #16213E;"/></a>
+  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&color=00B4D8&center=true&vCenter=true&width=450&lines=Climate+Researcher;Code+Alchemist;AI+Explorer" alt="Typing SVG"/></a>
 </p>
-
-<p align="center" style="color: #A5A6F6; margin-top: 10px; font-family: 'Arial', sans-serif; font-style: italic; text-shadow: 0 0 3px #00B4D8; max-width: 600px; margin-left: auto; margin-right: auto; padding: 10px; background-color: #1A1A2E; border-radius: 8px; border: 1px solid #34C759;">
-  <em>PhD student in Earth System Science & Remote Sensing at Tsinghua University, China. I’m driven to create tools that tackle climate change, shaping tomorrow with code.</em>
-</p>
-
 
 ---
 
@@ -35,7 +34,7 @@
 ---
 
 ### 🛠️ Tech Stack
-<p align="center" style="background-color: #16213E; padding: 10px; border-radius: 8px; border: 1px solid #533483;">
+<p align="center" style="padding: 10px; border-radius: 8px;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
@@ -44,14 +43,14 @@
 ---
 
 ### 📊 My GitHub Journey
-<p align="center" style="background-color: #1A1A2E; padding: 15px; border-radius: 10px; border: 2px solid #00B4D8;">
+<p align="center" style="background-color: #1A1A2E; padding: 15px; border-radius: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/TianyWang/TianyWang/main/assets/TianyWang-3d-contrib.png" alt="3D Contribution Graph" style="border: 2px solid #00B4D8; border-radius: 10px;"/>
-</p>
+</p> -->
 
 ---
 
@@ -71,5 +70,5 @@
 ---
 
 <p align="center" style="color: #E94560;">
-  ✨ <em><strong>“Code is my canvas, and I paint with logic.”</strong></em> ✨
+  ✨ <h3>“Code is my canvas, and I paint with logic.”</h3> ✨
 </p>
