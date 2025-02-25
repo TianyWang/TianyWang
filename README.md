@@ -2,7 +2,7 @@
 <p align="center" style="background-color: #1A1A2E; padding: 20px; border-radius: 10px; border: 2px solid #00B4D8; max-width: 800px; margin: 0 auto;">
   <img src="https://raw.githubusercontent.com/TianyWang/TianyWang/main/assets/wave_hand.gif" width="30" alt="Waving Hand" style="vertical-align: middle; margin-right: 10px;"/> 
   <span style="font-size: 55px; color: #E94560; vertical-align: middle; font-family: 'Courier New', monospace; font-weight: bold;">
-    <strong>Hey, I’m Tiany Wang!<strong>
+    <strong>Hey, I’m Tiany Wang!</strong>
   </span>
 </p>
 
