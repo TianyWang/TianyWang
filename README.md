@@ -1,10 +1,11 @@
 
 <p align="center" style="background-color: #1A1A2E; padding: 20px; border-radius: 10px; border: 2px solid #00B4D8; max-width: 800px; margin: 0 auto;">
-  <img src="https://raw.githubusercontent.com/TianyWang/TianyWang/main/assets/wave_hand.gif" width="30" alt="Waving Hand" style="vertical-align: middle; margin-right: 10px;"/> 
+  <h1><img src="https://raw.githubusercontent.com/TianyWang/TianyWang/main/assets/wave_hand.gif" width="30" alt="Waving Hand" style="vertical-align: middle; margin-right: 10px;"/> 
   <span style="font-size: 55px; color: #E94560; vertical-align: middle; font-family: 'Courier New', monospace; font-weight: bold;">
-    <strong>Hey, I’m Tiany Wang!</strong>
+    Hey, I’m Tiany Wang!</h1>
   </span>
 </p>
+
 
 <p align="center" style="margin-top: 15px; max-width: 800px; margin-left: auto; margin-right: auto;">
   <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&color=00B4D8&center=true&vCenter=true&width=450&lines=Climate+Researcher;Code+Alchemist;AI+Explorer" alt="Typing SVG" style="border: 1px solid #00B4D8; border-radius: 5px; padding: 5px; background-color: #16213E;"/></a>
@@ -49,7 +50,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TianyWang/TianyWang/main/assets/TianyWang-2024-git-skyline.png" alt="3D Contribution Graph"/>
+  <img src="https://raw.githubusercontent.com/TianyWang/TianyWang/main/assets/TianyWang-3d-contrib.png" alt="3D Contribution Graph" style="border: 2px solid #00B4D8; border-radius: 10px;"/>
 </p>
 
 ---
