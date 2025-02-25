@@ -20,6 +20,12 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      # Set Git user identity
+      - name: Set Git user
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
       # Generate the snake animation from GitHub contributions
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
