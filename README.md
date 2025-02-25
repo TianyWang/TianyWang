@@ -60,7 +60,6 @@ I'm <b>Tiany Wang</b>, a PhD candidate specializing in Earth System Science & Re
 
 
 ### 📬 Connect With Me
-<h3>Where to find me</h3>
 <p>
 <a href="https://github.com/TianyWang" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://google.com" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/X-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=orrange" /></a>
