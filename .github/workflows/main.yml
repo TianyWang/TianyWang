@@ -1,13 +1,12 @@
 name: Generate Animation
 
 permissions:
-  contents: write  # 允许写入仓库内容（推送代码）
-  actions: write   # 如果需要操作 Actions 本身
+  contents: write  # Allow writing to repository contents (push code)
+  actions: write   # Allow operating on Actions if needed
 
-  
 on:
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "0 */24 * * *"  # Runs every 24 hours
   workflow_dispatch:
   push:
     branches:
@@ -19,7 +18,7 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      # Checkout the repository
+      # Checkout the repository (master branch by default)
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
@@ -46,22 +45,19 @@ jobs:
       - name: List files in dist directory
         run: ls -R dist
 
-      # Create output branch if it doesn't exist
-      - name: Create output branch if it doesn't exist
+      # Checkout the existing output branch
+      - name: Checkout output branch
         run: |
-          git fetch origin output || git checkout --orphan output
-          git reset --hard
-          git commit --allow-empty -m "Initial commit"
-          git branch -M output  # 确保分支名是 output
-          git push --set-upstream origin output  # 创建并推送分支
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          git fetch origin
+          git checkout output
+          git pull origin output --rebase || echo "Branch might be empty, continuing..."
 
-      # Push the generated files to the output branch
-      - name: Push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
+      # Copy generated files to the root and commit
+      - name: Update output branch with generated files
+        run: |
+          cp -r dist/* .
+          git add .
+          git commit -m "Update snake animation" || echo "No changes to commit"
+          git push origin output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
