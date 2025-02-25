@@ -11,13 +11,26 @@
 I'm <b>Tiany Wang</b>, a PhD candidate specializing in Earth System Science & Remote Sensing at <img src="assets/tsinghua_logo.png" width="13"/><b><a href="https://www.tsinghua.edu.cn/"> Tsinghua University</a></b>, <img src="assets/china.png" width="13"/><b> China</b>. My work is fueled by a deep commitment to crafting innovative tools that address climate change, harnessing the power of code to build a more sustainable tomorrow.
 </p>
 
+
+### 🛠️ Tech Stack
+<p>
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+ <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
+<img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+<img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img alt="Slurm" src="https://img.shields.io/badge/-Slurm-4EAA25?style=flat-square&logo=slurm&logoColor=white" />
+<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+<hr style="height:1px;border:none;background: linear-gradient(90deg, transparent, #ccc, transparent);" />
+
+### 🚀 Decoding the Climate Code
 <p align="center" style="margin-top: 15px; max-width: 800px; margin-left: auto; margin-right: auto;">
   <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&color=00B4D8&center=true&vCenter=true&width=450&lines=Climate+Researcher;Code+Alchemist;AI+Explorer" alt="Typing SVG"/></a>
 </p>
-
----
-
-### 🚀 Decoding the Climate Code
 <p style="color: #00B4D8; font-family: 'Courier New', monospace; text-align: center; text-shadow: 0 0 5px #34C759;">
   <strong>Scanning Earth’s Pulse...</strong>
 </p>
@@ -31,16 +44,6 @@ I'm <b>Tiany Wang</b>, a PhD candidate specializing in Earth System Science & Re
 - 📡 <span style="color: #E94560;">Transmit: enchantedyi@foxmail.com</span>  
   *Drop a signal for eco-tech collabs.*
 
----
-
-### 🛠️ Tech Stack
-<p align="center" style="padding: 10px; border-radius: 8px;">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</p>
-
----
 
 ### 📊 My GitHub Journey
 <p align="center" style="background-color: #1A1A2E; padding: 15px; border-radius: 10px;">
@@ -48,26 +51,22 @@ I'm <b>Tiany Wang</b>, a PhD candidate specializing in Earth System Science & Re
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
 </p>
 
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/TianyWang/TianyWang/main/assets/TianyWang-3d-contrib.png" alt="3D Contribution Graph" style="border: 2px solid #00B4D8; border-radius: 10px;"/>
-</p> -->
 
----
 
 ### 🌟 Featured Projects
 - **[OCO-2 plume detector](https://github.com/TianyWang/TianyWang)** (coming soon)
   *A sleek tool for detecting the CO<sub>2</sub> plume trackted by NASA’s Orbiting Carbon Observatory-2 ([OCO-2](https://ocov2.jpl.nasa.gov/)) from space.*
-<!-- - **[Project Name 2](https://github.com/yourusername/project2)**  
-  *An innovative solution for [topic, e.g., data visualization].* -->
-<!-- --- -->
 
-<!-- ### 📬 Connect With Me
-<p align="center" style="background-color: #16213E; padding: 10px; border-radius: 8px; border: 1px solid #533483;">
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p> -->
 
----
+### 📬 Connect With Me
+<h3>Where to find me</h3>
+<p>
+<a href="https://github.com/TianyWang" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<a href="https://google.com" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/X-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=orrange" /></a>
+</p>
+
+<hr style="height:1px;border:none;background: linear-gradient(90deg, transparent, #ccc, transparent);" />
+
 
 <p align="center" style="color: #E94560;">
   ✨ <h3>“Code is my canvas, and I paint with logic.”</h3> ✨
