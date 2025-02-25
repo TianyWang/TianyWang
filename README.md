@@ -1,7 +1,7 @@
 
 <p align="center" style="background-color: #1A1A2E; padding: 20px; border-radius: 10px; border: 2px solid #00B4D8;">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving Hand"/> 
-  <span style="font-size: 28px; color: #E94560;">Hey, I’m [Your Name]</span>
+  <img src="https://github.com/TianyWang/TianyWang/blob/main/assets/wave_hand.gif" width="30" alt="Waving Hand"/> 
+  <span style="font-size: 35px; color: #E94560;">Hey, I’m Tiany Wang!</span>
 </p>
 
 <p align="center" style="color: #A5A6F6;">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="your-avatar-url-here" width="150" style="border-radius: 50%; border: 3px solid #00B4D8;" alt="Your Avatar"/>
+  <img src="https://github.com/TianyWang/TianyWang/blob/main/assets/avatar.png" width="150" style="border-radius: 50%; border: 3px solid #00B4D8;" alt="Your Avatar"/>
 </p>
 
 <p align="center">
