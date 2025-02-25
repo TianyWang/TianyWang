@@ -1,20 +1,21 @@
 
 <p align="center" style="background-color: #1A1A2E; padding: 20px; border-radius: 10px; border: 2px solid #00B4D8;">
-  <img src="https://github.com/TianyWang/TianyWang/blob/main/assets/wave_hand.gif" width="30" alt="Waving Hand"/> 
-  <span style="font-size: 35px; color: #E94560;">Hey, I’m Tiany Wang!</span>
+  <img src="https://github.com/TianyWang/TianyWang/blob/main/assets/wave_hand.gif" width="30" alt="Waving Hand" style="vertical-align: middle;"/> 
+  <span style="font-size: 35px; color: #E94560; vertical-align: middle;">Hey, I’m Tiany Wang!</span>
 </p>
 
-<p align="center" style="color: #A5A6F6;">
+<p align="center">
+  <img src="https://github.com/TianyWang/TianyWang/blob/main/assets/avatar.png" width="150" style="border-radius: 50%; border: 3px solid #00B4D8; aspect-ratio: 1/1; object-fit: cover;" alt="Tiany Wang's Avatar"/>
+</p>
+
+<p align="center" style="color: #A5A6F6; margin-top: 10px;">
   <em>A [Your Profession, e.g., Developer/Engineer] crafting the future with code.</em>
 </p>
 
-<p align="center">
-  <img src="https://github.com/TianyWang/TianyWang/blob/main/assets/avatar.png" width="150" style="border-radius: 50%; border: 3px solid #00B4D8;" alt="Your Avatar"/>
+<p align="center" style="margin-top: 15px;">
+  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&color=00B4D8&center=true&vCenter=true&width=450&lines=Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG"/></a>
 </p>
 
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&color=00B4D8¢er=true&vCenter=true&width=450&lines=Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG"/></a>
-</p>
 
 ---
 
