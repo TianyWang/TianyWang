@@ -47,7 +47,7 @@ I'm <b>Tiany Wang</b>, a PhD candidate specializing in Earth System Science & Re
   *Finding novel ways to fight climate chaos from space.*
 - 💾 <span style="color: #00B4D8;">Hack me up on Python, GHG quantification, or Machine Learning</span>  
   *Finding co-operation with data scientists, deep learning experts—let’s geek out over code & papers.*
-- 📡 <span style="color: #E94560;">Transmit: enchantedyi@foxmail.com</span>  
+- 📡 <span style="color: #E94560;">Transmit: ty-wang24@mails.tsinghua.edu.cn</span>  
   *Drop a signal for eco-tech collabs.*
 
 
@@ -60,8 +60,6 @@ I'm <b>Tiany Wang</b>, a PhD candidate specializing in Earth System Science & Re
 
 
 ### 🌟 Featured Projects
-<!-- - **[OCO-2 plume detector](https://github.com/TianyWang/TianyWang)** (coming soon)
-  *A sleek tool for detecting the CO<sub>2</sub> plume trackted by NASA’s Orbiting Carbon Observatory-2 ([OCO-2](https://ocov2.jpl.nasa.gov/)) from space.* -->
 | Project name | Description | Artical |
 |:---:|:---:|:---:|
 | **[OCO-2 plume detector](https://github.com/TianyWang/TianyWang)** (coming soon) | *A sleek tool for detecting the CO<sub>2</sub> plume tracked by NASA’s Orbiting Carbon Observatory-2 ([OCO-2](https://ocov2.jpl.nasa.gov/)) from space.* | Coming soon |
