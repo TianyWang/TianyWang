@@ -18,10 +18,11 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      # Checkout the repository (master branch by default)
-      - name: Checkout repository
+      # Checkout the repository directly to the output branch
+      - name: Checkout output branch
         uses: actions/checkout@v3
         with:
+          ref: output  # 直接检出 output 分支
           token: ${{ secrets.GITHUB_TOKEN }}
 
       # Set Git user identity
@@ -44,13 +45,6 @@ jobs:
       # List files in dist directory (for debugging)
       - name: List files in dist directory
         run: ls -R dist
-
-      # Checkout the existing output branch
-      - name: Checkout output branch
-        run: |
-          git fetch origin
-          git checkout output
-          git pull origin output --rebase || echo "Branch might be empty, continuing..."
 
       # Copy generated files to the root and commit
       - name: Update output branch with generated files
