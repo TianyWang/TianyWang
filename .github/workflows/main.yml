@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - master
+      - main  # 假设你的默认分支是 main，根据日志调整
 
 jobs:
   generate:
@@ -18,12 +18,13 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      # Checkout the repository directly to the output branch
+      # Checkout the output branch directly, ensuring a clean working directory
       - name: Checkout output branch
         uses: actions/checkout@v3
         with:
           ref: output  # 直接检出 output 分支
           token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0  # 获取完整历史记录，避免浅克隆问题
 
       # Set Git user identity
       - name: Set Git user
